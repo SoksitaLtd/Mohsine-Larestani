@@ -20,18 +20,18 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-1043776732490279/4595743134",
+        "AdMobInterstitial"   : "ca-app-pub-1043776732490279/4435961037",
+        "AdMobNative"         : "ca-app-pub-1043776732490279/6798384586",
+        "AdMobOpenAd"         : "ca-app-pub-1043776732490279/5295383616",
         
-        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
-        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
-        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+        "FacebookBanner"      : "",
+        "FacebookInterstitial": "",
+        "FacebookNative"      : ""
 
       }
     },
